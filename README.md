@@ -6,7 +6,7 @@ I used Javascript, and the Three js library to complete this.
 Techniques used:
 
 Create objects using Three.js built-in
-geomterical functions.
+geometrical functions.
 Built-in geomtetries I used:
 PlaneGeometry
 BoxGeometry
@@ -20,10 +20,10 @@ net transparent, to show the net texture.
 
 Use Transforms and rotations.
 Three js geometry objects are transformed and rotated to
-fix the size and orinetation of the scene.
+fix the size and orientation of the scene.
 
 Use cameras and lights.
-A perective camera is used with orbit controls. An ambient 
+A perspective camera is used with orbit controls. An ambient 
 light is added to make sure everything in the scene can be 
 seen. Two spotlights are added to simulate lighting in a 
 basketball court. Shadow effects are added to the spotlights 
